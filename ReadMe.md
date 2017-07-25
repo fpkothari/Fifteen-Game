@@ -2,4 +2,4 @@ This is an HTML/Javascript example of the game, "Fifteen" where you need to clic
 
 Screenshot:
 
-![15 Game]()
+![15 Game](https://github.com/fpkothari/Fifteen-Game/blob/master/15GameScreenshot.PNG)
